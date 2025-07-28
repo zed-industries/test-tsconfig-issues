@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "paths": {
+      "jquery": ["./vendor/jquery.js"]
+    }
+  },
+  "include": ["src/**/*", "vendor/jquery.js"]
+}
